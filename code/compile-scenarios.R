@@ -21,10 +21,6 @@ col <- c("Invertebrates" = "#440154FF",
         "Fish" = "#31688EFF",
         "Plants" = "#35B779FF",
         "Natural flow" = "grey")
-## col <- c("Invertebrates" = "grey",
-##         "Fish" = "grey",
-##         "Plants" = "grey",
-##         "Natural flow" = "black")
 
 ## Loading functions from functions.R file -------------------------------------
 source('code/dod-3taxa-fish-functions.R')
