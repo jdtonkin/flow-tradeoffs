@@ -2,4 +2,4 @@
 
 Code and data associated with Tonkin et al. /Frontiers in Ecology and the Environment/ "Designing flow regimes to support entire river ecosystems".  
 
-[![DOI](https://zenodo.org/badge/232957443.svg)](https://zenodo.org/badge/latestdoi/232957443)
+[[https://zenodo.org/badge/232957443.svg][https://zenodo.org/badge/latestdoi/232957443]]
