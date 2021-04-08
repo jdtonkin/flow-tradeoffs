@@ -1,0 +1,3 @@
+# flow-tradeoffs
+
+Code and data associated with Tonkin et al. /Frontiers in Ecology and the Environment/ "Designing flow regimes to support entire river ecosystems".  
